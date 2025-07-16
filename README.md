@@ -48,15 +48,14 @@ banking-app/
 ├── mvnw / mvnw.cmd
 ├── pom.xml
 └── README.md
-
+```
 📌 Getting Started (Optional)
 To run locally:
-
-Clone the repository:
 ```
 git clone https://github.com/YOUR_USERNAME/banking-app.git
-Open in IntelliJ or your preferred IDE.
 ```
+Open in IntelliJ or your preferred IDE.
+
 Set up your MySQL database (e.g., bank_db) and update application.properties.
 
 Run the application using:
@@ -68,8 +67,8 @@ Thanks to the original YouTube tutorial creator for making such a helpful hands-
 
 🔗 Connect with Me
 Feel free to connect or share feedback!
-```
-🔗 LinkedIn Profile(linkedin.com/in/aditiyerra11)
-💻 GitHub Repository(https://github.com/aditiz11)
-```
+
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/aditiyerra11)
+- 💻 [GitHub Repository](https://github.com/aditiz11)
+
 
