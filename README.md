@@ -1,68 +1,75 @@
-\# 🏦 Banking App - Spring Boot REST API
+# 🏦 Banking App – Spring Boot REST API
 
+A hands-on **banking backend project** built using **Java**, **Spring Boot**, **Spring Data JPA (Hibernate)**, and **MySQL**. This project is part of my learning journey, developed by following a YouTube tutorial to understand real-time API development and backend fundamentals.
 
+---
 
-A small practice project building Real-Time REST APIs for a Banking Application using:
+## 🚀 Features
 
+✅ Create new bank accounts  
+✅ Get details of a specific account  
+✅ Get all existing accounts  
+✅ Deposit money into an account  
+✅ Transfer money between accounts  
+✅ Delete bank accounts  
 
+---
 
-\- Java 17
+## ⚙️ Technologies Used
 
-\- Spring Boot
+- **Java 17**
+- **Spring Boot**
+- **Spring Data JPA (Hibernate)**
+- **MySQL**
+- **Maven**
+- **Java Records** (for DTOs)
+- **Custom Exception Handling** (Global + Specific)
 
-\- Spring Data JPA (Hibernate)
+---
 
-\- MySQL
+## 💡 Key Highlights
 
-\- Java Records (DTOs)
+- 🔁 Follows **REST API design principles**
+- ⚠️ Includes **error handling** with clean error responses
+- 🔒 Uses **Java Records** for clean DTO management
+- 📦 Fully configured with Maven for easy dependency management
 
-\- Global \& Specific Exception Handling
+---
 
+## 📂 Project Structure
 
+```bash
+banking-app/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   └── resources/
+├── .gitignore
+├── mvnw / mvnw.cmd
+├── pom.xml
+└── README.md
 
-\## 🚀 Features
+📌 Getting Started (Optional)
+To run locally:
 
+Clone the repository:
+```
+git clone https://github.com/YOUR_USERNAME/banking-app.git
+Open in IntelliJ or your preferred IDE.
+```
+Set up your MySQL database (e.g., bank_db) and update application.properties.
 
+Run the application using:
+```
+./mvnw spring-boot:run
+```
+🙌 Acknowledgments
+Thanks to the original YouTube tutorial creator for making such a helpful hands-on guide. This project helped me apply concepts of REST APIs, Spring Boot, JPA, DTOs, and exception handling effectively.
 
-\- Add an account
-
-\- Get account details
-
-\- Get all accounts
-
-\- Deposit amount
-
-\- Transfer amount between accounts
-
-\- Delete account
-
-
-
-\## 📦 Technologies
-
-
-
-\- Java
-
-\- Spring Boot
-
-\- Maven
-
-\- MySQL
-
-\- Hibernate (JPA)
-
-
-
-\## ❗ Error Handling
-
-
-
-Handles global and specific exceptions and returns structured error responses.
-
-
-
-✅ Built by following a YouTube tutorial as part of hands-on learning.
-
-
+🔗 Connect with Me
+Feel free to connect or share feedback!
+```
+🔗 LinkedIn Profile(linkedin.com/in/aditiyerra11)
+💻 GitHub Repository(https://github.com/aditiz11)
+```
 
